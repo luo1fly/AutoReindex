@@ -14,14 +14,14 @@ CONN_SSH = dict(
     IP='58.222.17.201',
     port=22,
     username='root',
-    password='d8YDflPN'
+    password=''
 )
 
 # mysql connection credentials
 CONN_MYSQL = dict(
     db='Search',
     host='58.222.17.196',
-    passwd='Epro@12345',
+    passwd='',
     port=3306,
     user='root'
 )
